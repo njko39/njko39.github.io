@@ -1,0 +1,8 @@
+{% for item in site.data.settings.social %}
+  {% assign first_char = item.link | slice: 0 %}
+  {% if first_char == '/' %}
+  <button class="button-48" role="button"><span class="text"><a href="{{ site.baseurl }}{{ item.link }}">{{ item.name }}</a></span></button>
+  {% else %}
+  <button class="button-48" role="button"><span class="text"><a href="{{ item.link }}" target="_blank">{{ item.name }}</a></span></button>
+  {% endif %}
+{% endfor %}

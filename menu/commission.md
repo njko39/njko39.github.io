@@ -4,4 +4,4 @@ title: Commission
 permalink: /commission
 ---
 
-There will be commission info!
+Here will be commission info!

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Welcome to Lagrange!
+title: NijikoのAtelier
 ---
 
 # Welcome!

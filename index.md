@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome!
+title: Welcome
 ---
 
 Hello! Im Nijiko, 3D artist! I like to do various 3D models :>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Commission
-permalink: /commission
+title: Commissions
+permalink: /commissions
 ---
 
-Here will be commission info!
+Here will be commissions info!

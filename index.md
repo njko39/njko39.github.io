@@ -1,11 +1,11 @@
 ---
-layout: about
-title: NijikoのAtelier
+layout: page
+title: Welcome!
 ---
 
-# Welcome!
+Hello! Im Nijiko, 3D artist! I like to do various 3D models :>
 
-You can find all the links here^^
+Check out links at the top of the page! If you have any questions, feel free to write me at my twitter, [njko39](https://x.com/njko39)
 
 <p class="button-row">
     {% include social-links.html %}

@@ -35,6 +35,10 @@
   color:black;
 }
 
+.header-title {
+  text-align: center;
+}
+
 .header-title a {
   font-size: 2rem;
   text-decoration: none;
@@ -42,7 +46,7 @@
 }
 
 .header-subtitle {
-  color: $light-gray-color;
+  color: #8C6761;
 }
 
 /*
@@ -50,18 +54,69 @@
 */
 
 .menu {
-  padding-top: 0.5rem;
+  padding-top: 1.5rem;
   display: block;
 }
 
 .menu-content {
-  float: left;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.menu-content a {
-  color: $light-gray-color;
+.menu-content span {
+  color: #8C6761;
   font-size: 1rem;
-  padding-right: 10px;
+}
+
+/* buttons for pages */
+.page-button {
+  background-color: #dfb397;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  box-sizing: border-box;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-right: 0.5em;
+  font-family: "MS Shell Dlg \32", sans-serif;
+}
+
+.page-button:hover {
+  background-color: #FFC8A4;
+}
+
+.page-button:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+.page-button span {
+	color: #8C6761;
+  vertical-align: top;
+}
+
+.page-button span:hover {
+	color: #8C6761;
+}
+
+@media (min-width: 768px) {
+  .page-button {
+    min-width: 120px;
+    padding: 0 25px;
+  }
+
+  .menu-content {
+    margin-left: -100px;
+    margin-right: -100px;
+  }
 }
 
 .social-icons {
@@ -91,16 +146,17 @@
   color: $light-gray-color;
   text-align: center;
   margin: 2rem;
+  font-size: 1.1rem;
 }
 
 .footer a {
-  color: $light-gray-color;
+  color: #858a78;
   padding: 10px;
   text-decoration: none;
 }
 
 .footer a:hover {
-  color: $dark-gray-color;
+  color: #8c6761;
 }
 
 .footer-description {

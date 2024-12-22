@@ -29,9 +29,8 @@ Casual outfit consist of crop top, long straight skirt and leather bag over shou
   <img slot="second" src="https://drive.google.com/thumbnail?id=1HFo0ZPvsNcDXuHFADNbz_0FP9j5e8uNB&sz=w1000" />
 </img-comparison-slider>
 
-<!-- 
-### Turntable videos
+ 
+<!--### Turntable videos-->
 
-<iframe src="https://drive.google.com/file/d/1HEuempyaKeSuutsdUAInIS4TwKjpWnRe/preview" allow="autoplay"></iframe>
-<iframe src="https://drive.google.com/file/d/1HCxQsbNn-OJXPN0Ag7uh11Zbh56rR5y6/preview" allow="autoplay"></iframe>
--->
+<!--<iframe src="https://drive.google.com/file/d/1HEuempyaKeSuutsdUAInIS4TwKjpWnRe/preview" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1HCxQsbNn-OJXPN0Ag7uh11Zbh56rR5y6/preview" allow="autoplay"></iframe>-->

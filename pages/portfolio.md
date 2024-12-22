@@ -13,7 +13,7 @@ Click on image open artstation post with more renders!
   <button class="btn active" onclick="filterSelection('all')"> Show all</button>
   <button class="btn" onclick="filterSelection('Outfits')"> Clothing</button>
   <button class="btn" onclick="filterSelection('Props')"> Props</button>
-  <button class="btn" onclick="filterSelection('Artworks')"> Artworks</button>
+  <button class="btn" onclick="filterSelection('Artworks')"> 3D Artworks</button>
 <!--  <button class="btn" onclick="filterSelection('Characters')"> Characters</button> -->
 </div>
 

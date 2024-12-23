@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio
 ---
 
-I mostly made outfits, accessories, weapons and props! I also have [artstation profile](https://www.artstation.com/njko39)
+I mostly made outfits, accessories, weapons and props! I also have [artstation page](https://njko39.artstation.com/)!
 
 Click on image open artstation post with more renders!
 
@@ -13,42 +13,64 @@ Click on image open artstation post with more renders!
   <button class="btn active" onclick="filterSelection('all')"> Show all</button>
   <button class="btn" onclick="filterSelection('Outfits')"> Clothing</button>
   <button class="btn" onclick="filterSelection('Props')"> Props</button>
+  <button class="btn" onclick="filterSelection('Weapon')"> Weapon</button>
   <button class="btn" onclick="filterSelection('Artworks')"> 3D Artworks</button>
 <!--  <button class="btn" onclick="filterSelection('Characters')"> Characters</button> -->
 </div>
 
 <!-- Portfolio Gallery Grid -->
 <div class="row">
+
   <div class="column Outfits">
     <div class="content">
-      <a href="https://njko39.artstation.com/projects/a0Rl89?album_id=14063960" target="_blank"><img src="https://drive.google.com/thumbnail?id=1GriVJKLM38HS-1aEtZSo0UuimxedzgAD&sz=w1000" alt="Vintage Shirt and Skirt" style="width:100%"></a>
-      <!--<h4>Title</h4>-->
-      <!--<p>Lorem ipsum dolor..</p>-->
-    </div>
-  </div>
-  <div class="column Outfits">
-    <div class="content">
-      <a href="" target="_blank"><img src="https://drive.google.com/thumbnail?id=1FTuwvvwM1WdgddXLC9zX-vIJXschTthZ&sz=w1000" alt="Knit Sweater" style="width:100%"></a>
-    </div>
-  </div>
-  <div class="column Outfits">
-    <div class="content">
-      <a href="https://njko39.artstation.com/projects/oJOLAm?album_id=14063960" target="_blank"><img src="https://drive.google.com/thumbnail?id=1GhKjscS4bWZVcPrqx05TpZDUdgUenlsJ&sz=w1000" alt="Vintage Dress with Flower Pattern" style="width:100%"></a>
-    </div>
-  </div>
-  <div class="column Props">
-    <div class="content">
-      <a href="https://njko39.artstation.com/projects/Pe0Gzo?album_id=14063963" target="_blank"><img src="https://drive.google.com/thumbnail?id=1TixlzfbAwLZNnZL2hNa9uAVrDc3OYpah&sz=w1000" alt="Ramen" style="width:100%"></a>
-    </div>
-  </div>
-  <div class="column Outfits">
-    <div class="content">
-      <a href="" target="_blank"><img src="https://drive.google.com/thumbnail?id=1HpMmwEVrH-sE1CHsRMwvEOPtS6ud5omI&sz=w1000" alt="Pearl Necklace" style="width:100%"></a>
+      <a href="" target="_blank"><img src="/assets/img/portfolio/sweater.jpg" alt="Knit Sweater" style="width:100%"></a>
     </div>
   </div>
   <div class="column Artworks">
     <div class="content">
-      <a href="https://njko39.artstation.com/projects/EveeLA?album_id=14063961" target="_blank"><img src="https://drive.google.com/thumbnail?id=13o0Q_icYh0fPvv6mAwbzZifg5P7zbx2g&sz=w1000" alt="Coffee Cat" style="width:100%"></a>
+      <a href="https://njko39.artstation.com/projects/EveeLA?album_id=14063961" target="_blank"><img src="/assets/img/portfolio/coffeecat.jpg" alt="Coffee Cat" style="width:100%"></a>
+    </div>
+  </div>
+  <div class="column Props">
+    <div class="content">
+      <a href="https://njko39.artstation.com/projects/Pe0Gzo?album_id=14063963" target="_blank"><img src="/assets/img/portfolio/ramen.jpg" alt="Ramen" style="width:100%"></a>
+    </div>
+  </div>
+  <div class="column Outfits">
+    <div class="content">
+      <a href="" target="_blank"><img src="/assets/img/portfolio/necklace.jpg" alt="Pearl Necklace" style="width:100%"></a>
+    </div>
+  </div>
+  <div class="column Weapon">
+    <div class="content">
+      <a href="" target="_blank"><img src="/assets/img/portfolio/citragan.png" alt="Citragan" style="width:100%"></a>
+    </div>
+  </div>
+  <div class="column Outfits">
+    <div class="content">
+      <a href="https://njko39.artstation.com/projects/oJOLAm?album_id=14063960" target="_blank"><img src="/assets/img/portfolio/flower-dress.jpg" alt="Vintage Dress with Flower Pattern" style="width:100%"></a>
+    </div>
+  </div>
+  <div class="column Outfits">
+    <div class="content">
+      <a href="https://njko39.artstation.com/projects/a0Rl89?album_id=14063960" target="_blank"><img src="/assets/img/portfolio/vintage-outfit.jpg" alt="Vintage Shirt and Skirt" style="width:100%"></a>
+      <!--<h4>Title</h4>-->
+      <!--<p>Lorem ipsum dolor..</p>-->
+    </div>
+  </div>
+  <div class="column Artworks">
+    <div class="content">
+      <a href="https://njko39.artstation.com/projects/yDgQmx" target="_blank"><img src="/assets/img/portfolio/teacup.jpg" alt="Teacup" style="width:100%"></a>
+    </div>
+  </div>
+  <div class="column Outfits">
+    <div class="content">
+      <a href="https://njko39.artstation.com/projects/0lX0w4" target="_blank"><img src="/assets/img/portfolio/casual-outfit.jpg" alt="Casual Outfit" style="width:100%"></a>
+    </div>
+  </div>
+  <div class="column Artworks">
+    <div class="content">
+      <a href="https://njko39.artstation.com/projects/5vkgg1" target="_blank"><img src="/assets/img/portfolio/hamcakes.jpg" alt="Hamcakes" style="width:100%"></a>
     </div>
   </div>
 

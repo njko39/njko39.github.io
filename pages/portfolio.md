@@ -43,7 +43,7 @@ Click on image open artstation post with more renders!
   </div>
   <div class="column Weapon">
     <div class="content">
-      <a href="" target="_blank"><img src="/assets/img/portfolio/citragan.png" alt="Citragan" style="width:100%"></a>
+      <a href="" target="_blank"><img src="/assets/img/portfolio/citragan.jpg" alt="Citragan" style="width:100%"></a>
     </div>
   </div>
   <div class="column Outfits">
@@ -71,6 +71,11 @@ Click on image open artstation post with more renders!
   <div class="column Artworks">
     <div class="content">
       <a href="https://njko39.artstation.com/projects/5vkgg1" target="_blank"><img src="/assets/img/portfolio/hamcakes.jpg" alt="Hamcakes" style="width:100%"></a>
+    </div>
+  </div>
+    <div class="column Outfits">
+    <div class="content">
+      <a href="" target="_blank"><img src="/assets/img/portfolio/outfit-with-chains.jpg" alt="Gothic outfit with chains" style="width:100%"></a>
     </div>
   </div>
 
